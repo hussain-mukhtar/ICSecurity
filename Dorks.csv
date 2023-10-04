@@ -70,6 +70,7 @@ Schneider Electric,Modicon,Generic,TELEMECANIQUE BMX
 Schneider Electric,Tac XENTA 913,Generic,Tac XENTA 913
 Schneider Electric,PowerLogic ION,Generic,"port:23 ""Meter ION"""
 Schneider Electric,Generic,Generic,title:PowerLogic
+Schneider Electric,Generic,Generic,intitle:"schneider electric telecontrol"
 Siemens,Simatic S7,Generic,Portal0000.htm
 Siemens,Simatic S7,Generic,Portal0000
 Siemens,Scalance S,Generic,Scalance S
@@ -79,7 +80,7 @@ Siemens,Simatic HMI,Generic,SIMATIC HMI
 Siemens,Simatic NET,Generic,SIMATIC NET
 Siemens,Generic,Generic,Siemens
 Siemens,Simatic HMI,Generic,Simatic
-Siemens,Generic,Station S7-1200_1,Portal/Portal.mwsl
+Siemens,Generic,StationÂ S7-1200_1,Portal/Portal.mwsl
 Siemens,Simatic S7,Generic,Simatic S7
 Siemens,Simatic HMI,Generic,Simatic -S7 HMI
 Siemens,Simatic HMI,Miniweb,Miniweb Start Page
